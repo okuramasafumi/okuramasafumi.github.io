@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://okuramasafumi.github.io/sitemap.xml 
