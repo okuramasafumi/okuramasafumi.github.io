@@ -4,7 +4,7 @@
   <title><![CDATA[This is not a title of this blog]]></title>
   <link href="http://okuramasafumi.github.io/atom.xml" rel="self"/>
   <link href="http://okuramasafumi.github.io/"/>
-  <updated>2014-02-06T17:59:37+09:00</updated>
+  <updated>2014-02-06T19:19:15+09:00</updated>
   <id>http://okuramasafumi.github.io/</id>
   <author>
     <name><![CDATA[Masafumi Okura]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The very first post]]></title>
+    <link href="http://okuramasafumi.github.io/blog/2014/02/06/the-very-first-post/"/>
+    <updated>2014-02-06T18:45:02+09:00</updated>
+    <id>http://okuramasafumi.github.io/blog/2014/02/06/the-very-first-post</id>
+    <content type="html"><![CDATA[<p>So, I started an blog with <a href="http://octopress.org">Octopress</a>. As the very first post, I should talk about this blog.</p>
+
+<p>Since I am a programmer, technology is what comes first to my mind when I try to write something meaningful. So I&rsquo;ll write about software and technology anyway in this blog. However, technology and software don&rsquo;t live on their own. Technology is developed by the community of engineers and scientists, which is a society, and used by the society. Technology and society are strongly connected, so when I think of the technology, I need to think about the society around it. And when I think about the society, I need to think about human as well.</p>
+
+<p>I will <em>NOT</em> talk about Ruby on Rails tips. There are many experts. I, instead, will talk about why RoR has been accepted by some people and not by others. I&rsquo;ll talk about how to learn programming, but I prefer to talk about &lsquo;what is learning programming&rsquo; and why most of us are not able to learn programming after all.</p>
+
+<p>Well at last, I need to mention the license. All posts of this blog are licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Please feel free to share, modify and translate my posts if you like, but please don&rsquo;t forget to share the same license.</p>
+]]></content>
+  </entry>
   
 </feed>
